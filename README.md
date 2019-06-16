@@ -11,5 +11,5 @@
 ex). date = today | tommorow | yesterday  
 注　Getできる値はFirestoreの値のため、家庭環境によって変更すること
 
-![Firestore](https://github.com/machitomo/gomiSearch/images/image_1.png)
+![Firestore](https://github.com/machitomo/gomiSearch/blob/image/image_1.png)
 
