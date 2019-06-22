@@ -59,7 +59,7 @@ def getWeek(date):
 
 # 何曜日かを返す
 def getDayOfTheWeek(date):
-    wd = ["Mon","Tue","Wed","Thu","Fri","Sat","San"]
+    wd = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
     return wd[date.weekday()]
     
         
